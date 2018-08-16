@@ -1,0 +1,17 @@
+[
+  {
+    "caption": "TestRunner: Run Single Test",
+    "command": "run_tests",
+    "args": { "scope": "line" }
+  },
+  {
+    "caption": "TestRunner: Run All Tests",
+    "command": "run_tests",
+    "args": { "scope": "file" }
+  },
+  {
+    "caption": "TestRunner: Run Last Test",
+    "command": "run_tests",
+    "args": { "scope": "last" }
+  }
+]
